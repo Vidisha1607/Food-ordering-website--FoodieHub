@@ -1,6 +1,6 @@
-#🍽Food Ordering App
+**#🍽Food Ordering App**
 
-This is a responsive and user-friendly website built using "React JS" and "Vite". It simulates an online food ordering experience where users can browse through menu, add items to their cart, place an order.
+This is a responsive and user-friendly website built using **"React JS"** and "Vite". It simulates an online food ordering experience where users can browse through menu, add items to their cart, place an order.
 
 
 ##Features:
