@@ -5,13 +5,13 @@ This is a responsive and user-friendly website built using "React JS" and "Vite"
 
 ##Features:
 Here's features included in this project-
--Add to cart functionality
--Shopping cart functionality
--Product Filtering functionality
--Cart management with item count and total price
--Cart and checkout page
--Contact page
--Fast performance using Vite build tool
+-Add to cart functionality  
+-Shopping cart functionality  
+-Product Filtering functionality  
+-Cart management with item count and total price  
+-Cart and checkout page  
+-Contact page  
+-Fast performance using Vite build tool  
 
 ##Technologies Used:
 React.js - For building the user interface
