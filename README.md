@@ -14,12 +14,12 @@ Here's features included in this project-
 -Fast performance using Vite build tool  
 
 ##Technologies Used:
-React.js - For building the user interface
-Vite - For faster project setup and build process
-JavaScript - For dynamic component based user interface
-HTML & CSS - For layout and styling
+React.js - For building the user interface  
+Vite - For faster project setup and build process  
+JavaScript - For dynamic component based user interface  
+HTML & CSS - For layout and styling  
 
-##How to start?
+##How to start?  
 To start the project along with me just download the start-up file and run available script
 // first install all necessary dependencies
 
